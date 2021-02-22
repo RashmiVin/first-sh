@@ -1,7 +1,7 @@
-!bin/bash
+# !bin/bash
 echo Please enter your name
 read name
-echo Hello $name, Welcome to our arcade! "😺" 
+echo Hello $name, Welcome to our arcade! "😺 😺" 
 sleep 1
 echo You are just 3 chances away from your fortune!! Roll it up to make it to 16 or more!!
 count=0
